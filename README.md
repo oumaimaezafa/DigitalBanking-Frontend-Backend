@@ -15,7 +15,7 @@ Ce projet nous a permis d'acquérir une expérience pratique en développant une
 
 <h3>Les screens de l'application:</h3>
 
-![img_4.png](img_4.png)
+![img_4.png](images/img_4.png)
 
 
     ```Partie ADMIN```
