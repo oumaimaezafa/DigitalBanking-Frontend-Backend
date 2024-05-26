@@ -1,6 +1,6 @@
 <h1>Compte rendu du Projet Spring Angular JWT - Gestion de Comptes Bancaires</h1>
 
-Dans le cadre du projet Spring Angular JWT, notre objectif était de concevoir une application de gestion de comptes bancaires, permettant à chaque compte d'appartenir à un client. Les comptes peuvent être de deux types : comptes courants et comptes épargnes, et peuvent subir des opérations de débit ou de crédit.
+Dans le cadre du projet Spring Angular JWT, notre objectif était de concevoir une application de gestion de comptes bancaires, permettant à chaque compte d'appartenir à un client. Les comptes peuvent être de deux types : comptes courants et comptes épargnes, et peuvent subir des opérations de débit ou de créditou transfert.
 
 <h2>Backend :</h2>
 
@@ -20,19 +20,19 @@ Ce projet nous a permis d'acquérir une expérience pratique en développant une
 
     ```Partie ADMIN```
 
-![img.png](img.png)
+![img.png](images/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 `` PARTIE Utilisateur ``
 
 
-![img_5.png](img_5.png)
+![img_5.png](images/img_5.png)
 
 
-![img_6.png](img_6.png)
+![img_6.png](images/img_6.png)
